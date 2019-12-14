@@ -1,0 +1,13 @@
+[2019-12-03T16:35:57.348] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T16:37:05.245] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T16:38:33.576] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T16:39:28.393] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T16:40:55.584] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T16:41:01.201] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T17:15:29.048] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T17:15:55.153] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T17:16:26.855] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T17:17:19.321] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T17:18:48.290] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T17:39:49.571] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
+[2019-12-03T17:41:56.691] [ERROR] default - missing fields : required:[ 'email', 'password' ] -- got:{}
