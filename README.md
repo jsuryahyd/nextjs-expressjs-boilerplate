@@ -16,4 +16,4 @@ Best place to get the basic idea would be the [Learn](https://nextjs.org/learn/b
 index.js has to be in root folder, doesnot work if placed inside backend folder.
 
 #### env variables
-- use next.config.js 
+- use `next-client/next.config.js`
